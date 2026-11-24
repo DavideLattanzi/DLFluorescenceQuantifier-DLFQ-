@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "DLFluoresenceQuantifier: Quantitative Fluorescence & Brightfield Microscopy Analysis Suite"
+version: 1.0.0
+date-released: 2026-11-23
+authors:
+  - family-names: "Lattanzi"
+    given-names: "Davide"
+    affiliation: "University of Urbino Carlo Bo"
+  - family-names: "Sartini"
+    given-names: "Stefano"
+    affiliation: "University of Urbino Carlo Bo"
+  - family-names: "Montesi"
+    given-names: "Ludovica"
+    affiliation: "University of Urbino Carlo Bo"
+- family-names: "Sartini"
+    given-names: "Alice"
+    affiliation: "University of Urbino Carlo Bo"
+- family-names: "Api"
+    given-names: "Giulia"
+    affiliation: "University of Urbino Carlo Bo"
+- family-names: "Zanchini"
+    given-names: "Irene"
+    affiliation: "University of Urbino Carlo Bo"
+- family-names: "Osman"
+    given-names: "Riham"
+    affiliation: "University of Urbino Carlo Bo"
+ family-names: "Salucci"
+    given-names: "Sara"
+    affiliation: "University of Bologna"
+ family-names: "Rauti"
+    given-names: "Rossana"
+    affiliation: "University of Urbino Carlo Bo"
+
+repository-code: "https://github.com/TUO-USERNAME/DLFluoresenceQuantifier"
+keywords:
+  - fluorescence microscopy
+  - image quantification
+  - CTCF
+  - colocalization
+  - nuclei segmentation
+  - Python
+license: MIT

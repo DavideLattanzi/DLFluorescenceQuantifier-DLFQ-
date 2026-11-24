@@ -1,0 +1,23 @@
+# PyInstaller build and distribution folders
+build/
+dist/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local test images and personal folders
+prove/
+*.cfq
+*.aim
+*.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db
