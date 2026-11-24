@@ -11,7 +11,7 @@
 - **Sara Salucci** — Collaborator (University of Bologna)
 - **Rossana Rauti** — Collaborator (University of Urbino Carlo Bo)
 
-**DLFluoresenceQuantifier** is a Python desktop application for quantitative fluorescence and brightfield microscopy image analysis, AI-assisted nuclear segmentation, colocalization measurement, and automated Excel reporting.
+**DLFluoresenceQuantifier** is a Python desktop application for quantitative fluorescence microscopy image analysis, AI-assisted nuclear segmentation, colocalization measurement, and automated Excel reporting.
 
 ![Representative Overview](Composite.jpg)
 
