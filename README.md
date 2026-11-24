@@ -2,9 +2,14 @@
 
 ## Authors & Collaborators
 - **Davide Lattanzi** — Lead Developer (University of Urbino Carlo Bo)
-- **Nome Cognome** — Collaborator (University of Urbino Carlo Bo)
-- **Nome Cognome** — Collaborator (Affiliation)
-
+- **Stefano Sartini** — Collaborator (University of Urbino Carlo Bo)
+- **Ludovica Montesi** — Collaborator (University of Urbino Carlo Bo)
+- **Alice Sartini** — Collaborator (University of Urbino Carlo Bo)
+- **Giulia Api** — Collaborator (University of Urbino Carlo Bo)
+- **Irene Zanchini** — Collaborator (University of Urbino Carlo Bo)
+- **Riham Osman** — Collaborator (University of Urbino Carlo Bo)
+- **Sara Salucci** — Collaborator (University of Bologna)
+- **Rossana Rauti** — Collaborator (University of Urbino Carlo Bo)
 
 **DLFluoresenceQuantifier** is a Python desktop application for quantitative fluorescence and brightfield microscopy image analysis, AI-assisted nuclear segmentation, colocalization measurement, and automated Excel reporting.
 
