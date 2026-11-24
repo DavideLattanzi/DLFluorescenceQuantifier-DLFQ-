@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software in your research, please cite it as below."
-title: "DLFluoresenceQuantifier: Quantitative Fluorescence Microscopy Analysis Suite"
-version: 1.0.0
-date-released: 2026-11-23
+title: "DLFluorescenceQuantifier: Quantitative Fluorescence Microscopy Analysis Suite"
+version: 1.0.1
+date-released: 2026-11-24
 authors:
   - family-names: "Lattanzi"
     given-names: "Davide"
@@ -13,26 +13,25 @@ authors:
   - family-names: "Montesi"
     given-names: "Ludovica"
     affiliation: "University of Urbino Carlo Bo"
-- family-names: "Sartini"
+  - family-names: "Sartini"
     given-names: "Alice"
     affiliation: "University of Urbino Carlo Bo"
-- family-names: "Api"
+  - family-names: "Api"
     given-names: "Giulia"
     affiliation: "University of Urbino Carlo Bo"
-- family-names: "Zanchini"
+  - family-names: "Zanchini"
     given-names: "Irene"
     affiliation: "University of Urbino Carlo Bo"
-- family-names: "Osman"
+  - family-names: "Osman"
     given-names: "Riham"
     affiliation: "University of Urbino Carlo Bo"
- family-names: "Salucci"
+  - family-names: "Salucci"
     given-names: "Sara"
     affiliation: "University of Bologna"
- family-names: "Rauti"
+  - family-names: "Rauti"
     given-names: "Rossana"
     affiliation: "University of Urbino Carlo Bo"
-
-repository-code: "https://github.com/TUO-USERNAME/DLFluoresenceQuantifier"
+repository-code: "https://github.com/DavideLattanzi/DLFluorescenceQuantifier-DLFQ-"
 keywords:
   - fluorescence microscopy
   - image quantification
